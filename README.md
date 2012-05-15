@@ -1,6 +1,6 @@
 # Phone::Validations
 
-TODO: Write a gem description
+Validates Austrian phone numbers
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    "004369912333212".is_austrian_mobile_number?
 
 ## Contributing
 
